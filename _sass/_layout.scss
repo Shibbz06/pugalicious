@@ -11,15 +11,18 @@
 }
 
 .site-title {
-    font-size: 26px;
+    font-size: 45px;
     line-height: 56px;
     letter-spacing: -1px;
-    margin-bottom: 0;
+    margin-bottom: 5px;
     float: left;
+    font-family: 'Lobster', cursive;
 
     &,
     &:visited {
         color: $grey-color-dark;
+    background-image: url ('https://wallpaperscraft.com/image/pug_face_happy_look_puppy_56871_2560x1024.jpg') center center no-repeat;
+
     }
 }
 
