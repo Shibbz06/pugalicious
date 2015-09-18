@@ -2,7 +2,7 @@
 title: Pug-a-licious
 email: shelly.schultz06@gmail.com
 description: This is the most awesome site for pug lovers everywhere!
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/pugalicious" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: schultz06shelly
 github_username:  Shibbz06
